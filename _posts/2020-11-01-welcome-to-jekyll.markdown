@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date: 2020-11-01
+title: AP GL
+date: '2020-11-01'
 tags:
   - jekyll
   - markdown
