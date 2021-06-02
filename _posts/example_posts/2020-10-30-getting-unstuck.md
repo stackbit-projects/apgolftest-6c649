@@ -75,4 +75,4 @@ Leave pads of blank paper nearby and doodle while you generate ideas or talk on 
 
 Sure, for the most part we're all stuck inside and don't have a lot of flexibility with our setting or time, but there's always something new to do if you look hard enough.
 
-Take in more inspiration, mindfully wander outside, carefully analyze the routines you have set in place, turn the tasks that you do into games, and don't be afraid to create more just for the sake of it!
+Take in more inspiration, mindfully wander outside, carefully analyze the routines you have set in place, turn the tasks that you do into games, and don't be afraid to create more just for the sake of it!![](https://apgolf.net/wp-content/uploads/2020/09/Week-1-photos-and-text-final.png)
