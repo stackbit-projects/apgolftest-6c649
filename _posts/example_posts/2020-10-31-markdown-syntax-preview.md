@@ -6,10 +6,9 @@ tags:
   - jekyll
   - markdown
 ---
-
 ![The Ultimate Guide to Markdown](http://blog.ghost.org/content/images/2015/03/markdown-guide-1.jpg)
 
-## Philosophy:
+## **Philosophy:**
 
 Markdown is intended to be as easy-to-read and easy-to-write as is feasible.
 
@@ -36,28 +35,28 @@ The only restrictions are that block-level HTML elements — e.g. `<div>`, `
     #### This is an <h4> tag
     ##### This is an <h5> tag
     ###### This is an <h6> tag
-    
+
 ### Emphasis
 
     *This text will be italic*
     _This will also be italic_
-    
+
     **This text will be bold**
     __This will also be bold__
-    
+
     _You **can** combine them_
-    
+
 Result:
 
 *This text will be italic*
 
-_This will also be italic_
+*This will also be italic*
 
 **This text will be bold**
 
-__This will also be bold__
+**This will also be bold**
 
-_You **can** combine them_
+*You **can** combine them*
 
 ### Lists
 
@@ -70,10 +69,10 @@ _You **can** combine them_
 
 Result:
 
-* Milk
-* Bread
-    * Wholegrain
-* Butter
+*   Milk
+*   Bread
+    *   Wholegrain
+*   Butter
 
 **Ordered:**
 
@@ -83,9 +82,9 @@ Result:
 
 Result:
 
-1. Tidy the kitchen  
-2. Prepare ingredients  
-3. Cook delicious things
+1.  Tidy the kitchen
+2.  Prepare ingredients
+3.  Cook delicious things
 
 ### Images
 
@@ -98,7 +97,7 @@ Result:
 ### Links
 
     [link](http://example.com)
-    
+
 Result:
 
 [link](http://example.com)
@@ -113,6 +112,7 @@ Result:
 Result:
 
 As Kanye West said:
+
 > We're living the future so
 > the present is our past.
 
@@ -122,7 +122,7 @@ As Kanye West said:
 
 Result:
 
----
+***
 
 ### Code Snippets
 
@@ -143,9 +143,10 @@ Result:
 
 Result:
 
-**The quick brown [fox][1], jumped over the lazy [dog][2].**
+**The quick brown **[**fox**][1]**, jumped over the lazy **[**dog**][2]**.**
 
 [1]: https://en.wikipedia.org/wiki/Fox "Wikipedia: Fox"
+
 [2]: https://en.wikipedia.org/wiki/Dog "Wikipedia: Dog"
 
 ### Escaping
@@ -174,7 +175,7 @@ Note: Some syntax which is not standard to native Markdown. They're extensions o
 
 Result:
 
-~~deleted words~~
+\~~deleted words~~
 
 ### Automatic Links
 
@@ -195,10 +196,10 @@ Work in [Ghost](https://ghost.org/):
 
 Result:
 
-The quick brown fox[^1] jumped over the lazy dog[^2].
+The quick brown fox\[^1] jumped over the lazy dog\[^2].
 
-[^1]: Foxes are red
-[^2]: Dogs are usually not red
+\[^1]: Foxes are red
+\[^2]: Dogs are usually not red
 
 ## GitHub Flavored Markdown
 
@@ -231,30 +232,28 @@ function fancyAlert(arg) {
 
 Result:
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+*   \[x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+*   \[x] list syntax required (any unordered or ordered list supported)
+*   \[x] this is a complete item
+*   \[ ] this is an incomplete item
 
 ### Tables
 
 You can create tables by assembling a list of words and dividing them with hyphens `-` (for the first row), and then separating each column with a pipe `|`:
 
-```
-First Header | Second Header | Third Header |
------------- | ------------- ----------------
-Content from cell 1 | Content from cell 2 | Content from cell 3 |
-Content in the first column | Content in the second column | Content in the third column |
-Content in the forth row A | Content in the forth row B | Content in the forth row C |
-```
+    First Header | Second Header | Third Header |
+    ------------ | ------------- ----------------
+    Content from cell 1 | Content from cell 2 | Content from cell 3 |
+    Content in the first column | Content in the second column | Content in the third column |
+    Content in the forth row A | Content in the forth row B | Content in the forth row C |
 
 First Header | Second Header | Third Header |
------------- | ------------- ----------------
+\------------ | ------------- ----------------
 Content from cell 1 | Content from cell 2 | Content from cell 3 |
 Content in the first column | Content in the second column | Content in the third column |
 Content in the forth row A | Content in the forth row B | Content in the forth row C |
 
 ## References
 
-* http://blog.ghost.org/markdown/
-* https://guides.github.com/features/mastering-markdown/
+*   http://blog.ghost.org/markdown/
+*   https://guides.github.com/features/mastering-markdown/
