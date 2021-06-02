@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Markdown Syntax Preview"
-date: 2020-10-31
+title: 'Markdown Syntax '
+date: '2020-10-31'
 tags:
   - jekyll
   - markdown
