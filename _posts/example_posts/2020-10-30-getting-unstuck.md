@@ -1,7 +1,7 @@
 ---
 id: 221
-title: "Getting Unstuck for Creatives"
-date: 2020-10-30
+title: Getting Unstuck for Creatives
+date: '2020-10-30'
 author: Brennan K. Brown
 layout: post
 tags:
@@ -9,10 +9,9 @@ tags:
   - Inspiration
   - Habits
 ---
+## ***Taking a novel approach to life and breaking routines.***
 
-## Taking a novel approach to life and breaking routines.
-
-Okay, let's be real. I've found myself totally trapped in the habitual daily acts that've sprung up thanks to COVID-19, and I'm sure that I'm not alone in that. The lack of travelling different places, meeting new people, having _any_ sort of stimuli apart from our dreaded screens can get _beyond_ boring and frustrating.
+Okay, let's be real. I've found myself totally trapped in the habitual daily acts that've sprung up thanks to COVID-19, and I'm sure that I'm not alone in that. The lack of travelling different places, meeting new people, having *any* sort of stimuli apart from our dreaded screens can get *beyond* boring and frustrating.
 
 This isn't anything new, though. This feeling is the inevitable byproduct of repetitive work. Feeling stuck and on auto-pilot is triggered by repetitive work, and almost all of us, regardless of our occupation, engage in repetitive work.
 
@@ -22,7 +21,7 @@ Here are a few small ideas to break out of that monotony, at least for a little 
 
 **1. Be mindful of input versus output.** Our general consumption is an important, often overlooked factor when talking about getting stuck. What kind of input are you currently engaged in? What are you feeding your creative monster?
 
-Most of our days are spent in _output mode_, the business of making what we make. Whether it's spreadsheets or ad campaigns, we typically give much more than we typically take. Being so focused on what we output that we forget to fill our creative tank as well.
+Most of our days are spent in *output mode*, the business of making what we make. Whether it's spreadsheets or ad campaigns, we typically give much more than we typically take. Being so focused on what we output that we forget to fill our creative tank as well.
 
 To combat this, engage in some form of inspirational or educational input like reading books, watching movies, or listening to music. Try thumbing through a magazine you've never heard of before, or attending a concert for a new band that you're unfamiliar with!
 
@@ -54,11 +53,11 @@ But few know how to make play work. One way is to use design thinking to create 
 
 In the context of a creative endeavour, game-making takes on a slightly more purposeful goal: turn everyday tasks into games. A game needs a goal and restrictions. The goal defines the end of the game and the restrictions define the rules and behaviours.
 
-Take an everyday mundane task that you have to do: Set the goal and the _restrictions_ of that activity. The trick to turning everyday tasks into games is to either alter the goal or your limitations.
+Take an everyday mundane task that you have to do: Set the goal and the *restrictions* of that activity. The trick to turning everyday tasks into games is to either alter the goal or your limitations.
 
 Try your hand at adding little milestone achievements, or recruit other players. In reality, the art of TK gamification can be applied to any task, and you'll start seeing your everyday routines in a new light.
 
-**5. Busy Hands _aren't_ the Devil's Plaything.** Get handy. It may not seem logical, but studies have shown that the mind is more engaged in problem-solving activities when the hands are active.
+**5. Busy Hands *aren't* the Devil's Plaything.** Get handy. It may not seem logical, but studies have shown that the mind is more engaged in problem-solving activities when the hands are active.
 
 Simply put, you think better when your hands are busy.
 
